@@ -10,7 +10,7 @@ sudo apt install git -y
 ```
 **3rd Command** 
 ```
-git clone https://github.com/Ayuxd-yt/vpsdeploybot
+git clone https://github.com/warpnode-1/vpsbot
 ```
 **4th Command** 
 ```
