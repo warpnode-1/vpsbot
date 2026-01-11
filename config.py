@@ -1,0 +1,5 @@
+# config.py
+
+TOKEN = "PASTE_YOUR_DISCORD_BOT_TOKEN_HERE"
+PREFIX = "!"
+ADMIN_ROLE = "Admin"
